@@ -27,7 +27,7 @@ This is a project built during the React course on Udemy. The application allows
    `npm install`
    
 3. Run the app:  
-   `npm start`
+   `npm run dev`
 
 ## License:
 This project is for educational purposes and created as part of the React course on Udemy.
